@@ -1,0 +1,7 @@
+.main-footer {
+    padding: 4em;
+    display:flex;
+    justify-content: space-evenly;
+    width: 100%;
+    background-color: brown;
+}

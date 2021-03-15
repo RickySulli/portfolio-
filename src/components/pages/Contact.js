@@ -27,13 +27,13 @@ const Contact = () => (
             </div>
             {/* {Column3} */}
             <div className= "col"style={{display:"flex",justifyContent:"space-evenly",flexFlow:"column",alignItems:"center" }}>
-              <h3>Checkout my Repos</h3>
+              <h3>Check out my Repos</h3>
                 <h1>
                 <a href="https://github.com/rickysulli"><i class="fab fa-github"></i></a>
                 </h1>
             </div>
             <div className= "col"style={{display:"flex",justifyContent:"space-evenly",flexFlow:"column",alignItems:"center" }}>
-              <h3>Visit my YouTube Channel</h3>
+              <h3>Visit my Channel</h3>
                 <h1>
                 <a href="https://youtube.com/channel/UCaGkSXwQFxNjYYDPriCr-sw"><i class="fab fa-youtube"></i></a>
                 </h1>

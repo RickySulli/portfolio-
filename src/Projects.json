@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "project": "Meal Queue",
+      "image": "https://imgur.com/vLOXwn3",
+      "description": "Recipe finder with a youtube modal that matches the recipe.",
+      "tech": "Heavily front end.  SASS, Javascript, HTML and use of APIs",
+      "link": "https://axeliono.github.io/Meal-Queue/"
+    },
+    {
+      "id": 2,
+      "name": "Diet Delivery",
+      "image": "https://imgur.com/v9Xualh",
+      "description": "An app for meal deliveries for chronic conditions.",
+      "tech": "First 'full stack' project.  Node, Express, Handlebars, MySQL & Sequelize ORM, MVC, Encryption.",
+      "link": "https://diet-delivery.herokuapp.com/"
+    },
+    {
+      "id": 3,
+      "name": "RegEx Tutorial",
+      "image": "https://pbs.twimg.com/profile_images/851635058339336192/ZI5FHI72_400x400.jpg",
+      "description": "Cashier",
+      "tech": "This is just a regex tutorial gist I wrote",
+      "link": "RickySulli/regex-tutorial.md"
+    },
+    {
+      "id": 4,
+      "name": "Timed Coding Assessment",
+      "image": "https://imgur.com/kTv0a34",
+      "description": "simple front end testing app",
+      "tech": "HTML CSS and JavaScript",
+      "link": "https://rickysulli.github.io/TimedCodingAssessment/"
+    },
+    {
+      "id": 5,
+      "name": "Budget Tracker",
+      "image": "https://imgur.com/qNmFZ6S",
+      "description": "A way to track your budget no matter your internet connection.",
+      "tech": "PWA",
+      "link": "https://calm-falls-62609.herokuapp.com/"
+    },
+    {
+      "id": 6,
+      "name": "Not Computers",
+      "image": "https://imgur.com/fiSozWg",
+      "description": "Forever student of percussion.",
+      "tech": "The Blues Specialists, Perfect Pants",
+      "link": "https://perfectpants.bandcamp.com/"
+    }
+]

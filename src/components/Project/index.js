@@ -1,17 +1,10 @@
 import React from 'react';
-// var style = {
-//   width: "100%",
-//   height: "100%",
-//   display:"flex",
-//   justifyContent:"space-around",
-//   textAlign:"center",
-//   backgroundColor: " #292933",
-// }
+import "./style.css"
 function ProjectCard(props) {
     return (
-      <div className="row">
-      <div className="card"style={{width:"18rem"}}>
-          <img className="card-img-top"alt={props.name} src={props.image} />
+      <div>
+      <div className="card h-100"style={{width:"18rem", backgroundColor:"#292933"}}>
+          <img className="card-img-top" style={{size:"100%"}}alt={props.name} src={props.image} />
         <div className="card-title">
           <ul className="list-group list-group-flush">
             <li className="list-group-item"style={{backgroundColor:"#292933"}}>

@@ -4,14 +4,14 @@
       "name": "Meal Queue",
       "image": "https://i.imgur.com/vLOXwn3.jpg",
       "description": "Recipe finder with a youtube modal that matches the recipe.",
-      "tech": "Heavily front end.  SASS, Javascript, HTML and use of APIs",
+      "tech": "Heavily front end.  SASS, Javascript, HTML and use of APIs this was my first group project",
       "link": "https://axeliono.github.io/Meal-Queue/"
     },
     {
       "id": 2,
       "name": "Diet Delivery",
       "image": "https://i.imgur.com/v9Xualh.jpg",
-      "description": "An app for meal deliveries for chronic conditions.",
+      "description": "An app for meal deliveries for people with chronic conditions.",
       "tech": "First 'full stack' project.  Node, Express, Handlebars, MySQL & Sequelize ORM, MVC, Encryption.",
       "link": "https://diet-delivery.herokuapp.com/"
     },

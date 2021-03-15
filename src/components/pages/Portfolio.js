@@ -19,8 +19,8 @@ const Portfolio = () => {
 return(
 <div>
   <div style={style}>
-<Wrapper>
     <h1 className="title">Projects</h1>
+<Wrapper>
 {projectList.map(project => {
         return <ProjectCard
         id = {project.id}

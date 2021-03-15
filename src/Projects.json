@@ -1,8 +1,8 @@
 [
     {
       "id": 1,
-      "project": "Meal Queue",
-      "image": "https://imgur.com/vLOXwn3",
+      "name": "Meal Queue",
+      "image": "https://i.imgur.com/vLOXwn3.jpg",
       "description": "Recipe finder with a youtube modal that matches the recipe.",
       "tech": "Heavily front end.  SASS, Javascript, HTML and use of APIs",
       "link": "https://axeliono.github.io/Meal-Queue/"
@@ -10,7 +10,7 @@
     {
       "id": 2,
       "name": "Diet Delivery",
-      "image": "https://imgur.com/v9Xualh",
+      "image": "https://i.imgur.com/v9Xualh.jpg",
       "description": "An app for meal deliveries for chronic conditions.",
       "tech": "First 'full stack' project.  Node, Express, Handlebars, MySQL & Sequelize ORM, MVC, Encryption.",
       "link": "https://diet-delivery.herokuapp.com/"
@@ -26,7 +26,7 @@
     {
       "id": 4,
       "name": "Timed Coding Assessment",
-      "image": "https://imgur.com/kTv0a34",
+      "image": "https://i.imgur.com/kTv0a34.png",
       "description": "simple front end testing app",
       "tech": "HTML CSS and JavaScript",
       "link": "https://rickysulli.github.io/TimedCodingAssessment/"
@@ -34,7 +34,7 @@
     {
       "id": 5,
       "name": "Budget Tracker",
-      "image": "https://imgur.com/qNmFZ6S",
+      "image": "https://i.imgur.com/qNmFZ6S.jpg",
       "description": "A way to track your budget no matter your internet connection.",
       "tech": "PWA",
       "link": "https://calm-falls-62609.herokuapp.com/"
@@ -42,7 +42,7 @@
     {
       "id": 6,
       "name": "Not Computers",
-      "image": "https://imgur.com/fiSozWg",
+      "image": "https://i.imgur.com/fiSozWg.jpg",
       "description": "Forever student of percussion.",
       "tech": "The Blues Specialists, Perfect Pants",
       "link": "https://perfectpants.bandcamp.com/"

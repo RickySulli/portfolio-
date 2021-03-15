@@ -11,17 +11,16 @@ var style = {
   backgroundColor: " #292933",
   color:"beige",
   padding:"5%",
-  overflow: "hidden"
+  overflow: "hidden",
 }
 
 const Portfolio = () => {
-  const projectList = useState(Projects);
+  const [projectList] = useState(Projects);
 return(
-
+<div>
   <div style={style}>
-    <h1>Portfolio</h1>
-<p>Here are some projects where I was involved</p>
 <Wrapper>
+    <h1 className="title">Projects</h1>
 {projectList.map(project => {
         return <ProjectCard
         id = {project.id}
@@ -30,11 +29,11 @@ return(
         description= {project.description}
         tech= {project.tech}
         link= {project.link}
-        
         />
       })}
 </Wrapper>
   </div>
+</div>
 )};
 
 export default Portfolio;

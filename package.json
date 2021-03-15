@@ -2,6 +2,7 @@
   "name": "portfolio-react",
   "version": "0.1.0",
   "private": true,
+  "homepage":" https://rickysulli.github.io/portfolio-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
@@ -9,8 +10,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.0",
-    "homepage":" https://rickysulli.github.io/portfolio-react"
+    "web-vitals": "^1.1.0"
   },
   "scripts": {
     "start": "react-scripts start",

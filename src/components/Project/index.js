@@ -4,7 +4,7 @@ function ProjectCard(props) {
     return (
       <div>
       <div className="card h-100"style={{width:"18rem", backgroundColor:"#292933"}}>
-          <img className="card-img-top" style={{size:"100%"}}alt={props.name} src={props.image} />
+          <img className="card-img-top" style={{size:"100%", borderRadius: "69%" }}alt={props.name} src={props.image} />
         <div className="card-title">
           <ul className="list-group list-group-flush">
             <li className="list-group-item"style={{backgroundColor:"#292933"}}>
@@ -16,7 +16,7 @@ function ProjectCard(props) {
             <li className="list-group-item"style={{backgroundColor:"#292933"}}>
               <strong>tech:</strong> {props.tech}
             </li>
-            <div className="card-body">
+            <div className="card-body" style={{borderRadius: "20%"}}>
                 <a href={props.link} className="card-link"><strong>Link</strong></a>
             </div>
           </ul>

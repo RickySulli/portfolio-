@@ -33,11 +33,11 @@
     },
     {
       "id": 5,
-      "name": "Budget Tracker",
-      "image": "https://i.imgur.com/qNmFZ6S.jpg",
-      "description": "A way to track your budget no matter your internet connection.",
-      "tech": "PWA",
-      "link": "https://calm-falls-62609.herokuapp.com/"
+      "name": "Hotel-Hotel",
+      "image": "https://i.imgur.com/us6gMou.jpg",
+      "description": "A fictional boutique hotel with a store. ",
+      "tech": "PWA, MERN stack",
+      "link": "https://dry-peak-24448.herokuapp.com/"
     },
     {
       "id": 6,

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # portfolio-react
 =======
 # Getting Started with Create React App

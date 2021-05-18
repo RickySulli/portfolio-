@@ -15,6 +15,7 @@ const Footer = () => (
         <p className="col-sm">
             &copy;{new Date().getFullYear()}
         </p>
+        <a href = "mailto: dostuffforme@gmail.com">dostuffforme@gmail.com</a>
     </div>
     
 </div>

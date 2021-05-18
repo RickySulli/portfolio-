@@ -9,14 +9,14 @@ var style = {
   backgroundColor: " #292933",
   color:"beige",
   padding:"5%",
-  overflow: "hidden"
+  overflow: "hidden",
+
 }
 const About = () => (
   <div style={style}>
     <h1>About Page</h1>
-    <h4>
-    A strong work ethic coupled with a consistent, steady performance record as well as accomplishment at almost every level of responsibility.
-My outstanding people skills and expert customer service allows me to work with and elevate the performance of others to create a positive and productive work environment.
+    <h4 style = {{marginLeft:"2%"}}>
+    Full Stack Web Developer with a passion for creating engaging and intuitive UI experiences. Proven complex problem solver that thrives in high pressure environments. Life-long learner known by colleagues as dependable and steadfast - never stopping until a task is completed.
 </h4>
     
   </div>

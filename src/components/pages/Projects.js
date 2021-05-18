@@ -28,7 +28,8 @@ return(
         image= {project.image}
         description= {project.description}
         tech= {project.tech}
-        link= {project.link}
+        deployed = {project.deployed}
+        github = {project.github}
         />
       })}
 </Wrapper>

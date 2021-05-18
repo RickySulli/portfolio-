@@ -1,6 +1,6 @@
 import React from 'react';
-import "./style.css"
-function ProjectCard(props) {
+
+function HistoryCard(props) {
     return (
       <div>
       <div className="card h-100"style={{width:"18rem", backgroundColor:"#292933"}}>
@@ -8,19 +8,20 @@ function ProjectCard(props) {
         <div className="card-title">
           <ul className="list-group list-group-flush">
             <li className="list-group-item"style={{backgroundColor:"#292933"}}>
-              <strong>Name:</strong> {props.name}
+              <strong>Title: </strong> {props.title}
+            </li>
+            <li className="list-group-item"style={{backgroundColor:"#292933"}}>
+              <strong>Company: </strong> {props.company}
+            </li>
+            <li className="list-group-item"style={{backgroundColor:"#292933"}}>
+              <strong>City: </strong> {props.city}
+            </li>
+            <li className="list-group-item"style={{backgroundColor:"#292933"}}>
+              <strong>from: </strong> {props.time}
             </li>
             <li className="list-group-item"style={{backgroundColor:"#292933"}}>
               <strong>description:</strong> {props.description}
             </li>
-            <li className="list-group-item"style={{backgroundColor:"#292933"}}>
-              <strong>tech:</strong> {props.tech}
-            </li>
-            <div className="card-body" style={{borderRadius: "20%"}}>
-                <a href={props.deployed} className="card-link"><strong>Deployed</strong></a>
-                <a href = {props.github}
-                className="card-link"><strong>github</strong></a>
-            </div>
           </ul>
         </div>
       </div>
@@ -28,5 +29,5 @@ function ProjectCard(props) {
     );
   }
   
-  export default ProjectCard;
+  export default HistoryCard;
   

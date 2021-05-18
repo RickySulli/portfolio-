@@ -2,10 +2,12 @@ import React, { useState } from 'react';
 import NavTabs from '../NavTabs';
 import Contact from '../pages/Contact';
 import About from '../pages/About';
-import Portfolio from '../pages/Portfolio';
-import Resume from '../pages/Resume';
+import Projects from '../pages/Projects';
+import Skills from '../pages/Skills';
+import WorkHistory from '../pages/WorkHistory';
 import Footer from '../Footer'
 import Header from '../Header'
+
 // import { render } from 'react-dom';
 
 
@@ -17,10 +19,12 @@ function Tabs() {
     switch (currentPage) {
       case 'About':
         return <About/>
-      case 'Portfolio':
-        return <Portfolio/>
+      case 'Projects':
+        return <Projects/>
       case 'Resume':
-        return <Resume/>
+        return <WorkHistory/>
+      case 'Skills':
+        return <Skills/>
       default:
         return <Contact/>
        
@@ -31,7 +35,7 @@ function Tabs() {
     <div>
       <Header/>
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
-      <div>
+      <div style={{backgroundColor: "#292933", width: "100%", height:"100%"}}>
         {
           // Render the component returned by 'renderPage()'
          renderPage(currentPage)

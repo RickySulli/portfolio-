@@ -12,7 +12,7 @@ var style = {
 const Header =() =>(
     <div className="row" style={style}>
         <h1 className="title">Ricky Sullivan</h1>
-        <img src="https://i.imgur.com/oauIwUO.jpg" alt="Fortune"></img>
+        <img src="https://i.imgur.com/WnaS5Vk.jpg" alt="Fortune"></img>
     </div>
 )
 

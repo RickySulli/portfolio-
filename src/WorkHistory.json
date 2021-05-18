@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "title": "Manager",
+        "company": "Continental Club/C-boy's Heart & Soul",
+        "time": "2012-Present",
+        "city": "Austin, TX",
+        "image": "https://i.imgur.com/Aih1xK3.jpg",
+        "description": "Conduct sales and operation oversight. Work to continuously broaden my knowledge of classic and current cocktails both classic and current. Create a pleasant and welcoming atmosphere for clients."
+    },
+    {   "id": 2,
+        "title": "Manager",
+        "company": "Trophy's Bar and Grill",
+        "time": "2010-2013",
+        "city": "Austin, TX",
+        "image": "https://i.imgur.com/toIsgVa.jpg",
+        "description": "Oversee  bookkeeping, hiring, scheduling, inventory management, general building maintenance, employee supervision and bar sales."
+    },
+    
+    {
+        "id": 3,
+        "title": "Route Delivery Driver",
+        "company": "The Onion",
+        "time": "2011-2013",
+        "city":"Austin, TX",
+        "image": "https://i.imgur.com/z6mLsIN.jpg",
+        "description": "Administered exceptional customer service through effective communication and relationship building."
+    },
+    {
+    "id": 4,
+    "title": "Sales Associate",
+    "company": "Free Speech Systems",
+    "time": "2015-2016",
+    "city":"Austin, TX",
+    "image": "https://i.imgur.com/rzmtJch.jpg",
+    "description": "Conducted relationship management and cold calling to generate new business."
+    }
+
+]

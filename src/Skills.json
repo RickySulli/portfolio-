@@ -1,0 +1,139 @@
+[
+    {
+        "id": 1,
+        "skill": "Node.js",
+        "image": "https://coralogix.com/wp-content/uploads/2018/04/Coralogix-Nodejs-integration.jpg"
+    },
+    {
+        "id": 2,
+        "skill": "Express.js",
+        "image": "https://content.nexza.com/stack-items/express.png"
+    },
+    {
+        "id": 3,
+        "skill": "JavaScript",
+        "image": "https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png"
+    },
+    {
+        "id": 4,
+        "skill": "jQuery",
+        "image": "https://lh3.googleusercontent.com/proxy/xWECeiXsJtHgbpN_tNU3PCmR7Wzjh8wyJxA9hPT9FDQmSrIfoyNKRZ10jRD-aohkxNZZIQtT93jO-mRGcw-jZ8EErVl46JYj-gwlRuo0VIwn2AFOiOgzqwmPOQkiQBs"
+    },
+    {
+        "id": 5,
+        "skill": "React.js",
+        "image": "https://www.valuecoders.com/blog/wp-content/uploads/2016/08/react.png"
+    },
+    {
+        "id": 6,
+        "skill": "JSX",
+        "image": "https://i.morioh.com/200626/3c53255f.jpg"
+    },
+    {
+        "id": 7,
+        "skill": "GIT",
+        "image": "https://www.outsourcing-web.com/wp-content/uploads/2018/09/450_1000.png"
+    },
+    {
+        "id": 8,
+        "skill": "GitHub",
+        "image": "https://github.githubassets.com/images/modules/open_graph/github-mark.png"
+    },
+    {
+        "id": 9,
+        "skill": "MongoDB",
+        "image": "https://gocode.colorado.gov/wp-content/uploads/2020/11/MongoDB-sm-logo.gif"
+    },
+    {
+        "id": 10,
+        "skill": "MySQL",
+        "image": "https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW.png"
+
+    },
+    {
+        "id": 11,
+        "skill": "Mongoose",
+        "image": "https://cms-assets.tutsplus.com/uploads/users/34/posts/29527/preview_image/mongoose.jpg"
+    },
+    {
+        "id": 12,
+        "skill": "Handlebars.js",
+        "image": "https://cdn.tutsplus.com/net/uploads/legacy/2143_handlebars/handlebars-thumb.jpg"
+    },
+    {
+        "id": 14,
+        "skill": "HTML5",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"
+    },
+    {
+        "id": 15,
+        "skill": "CSS3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"
+    },
+    {
+        "id": 16,
+        "skill": "Bootstrap",
+        "image": "https://pbs.twimg.com/profile_images/1273081551354396672/-Tzadxix_400x400.jpg"
+    },
+    {
+        "id": 17,
+        "skill": "Materialize",
+        "image": "https://colinstodd.com/images/posts/matcss-min.png"
+    },
+    {
+        "id": 18,
+        "skill": "APIs",
+        "image": "https://techblogsvit.files.wordpress.com/2018/11/apis.png"
+    },
+    {
+        "id": 19,
+        "skill": "Heroku",
+        "image": "https://pbs.twimg.com/profile_images/689189555765784576/3wgIDj3j.png"
+    },
+    {
+        "id": 20,
+        "skill": "Terminal",
+        "image": "https://betanews.com/wp-content/uploads/2020/08/windows-terminal-header.jpg"
+    },
+    {
+        "id": 21,
+        "skill": "AJAX",
+        "image": "https://planetjon.ca/wp-content/uploads/2014/03/ajax-logo.png"
+    },
+    {
+        "id": 22,
+        "skill": "Restful API",
+        "image": "https://dz2cdn1.dzone.com/storage/temp/4801566-infographic-3.png"
+    },
+    {
+        "id": 23,
+        "skill": "ES6",
+        "image": "https://www.mkwd.net/wp-content/uploads/2019/11/ES6.jpg"
+    },
+    {
+        "id": 24,
+        "skill": "React Hooks",
+        "image": "https://miro.medium.com/max/1166/1*fQefaOBmMkqfdpvphCEdVw.png"
+    },
+    {
+        "id": 25,
+        "skill": "JSON",
+        "image": "https://nextfaze.gallerycdn.vsassets.io/extensions/nextfaze/json-parse-stringify/1.0.2/1519864325244/Microsoft.VisualStudio.Services.Icons.Default"
+    },
+    {
+        "id":26,
+        "skill": "Sequelize",
+        "image": "https://google.github.io/sqlcommenter/images/sequelize-logo.png"
+
+    },
+    {
+        "id":27,
+        "skill": "SCSS",
+        "image": "https://i1.wp.com/techprimelab.com/wp-content/uploads/2020/06/SCSS-or-CSS.jpg?fit=1024%2C576&ssl=1"
+    },
+    {
+        "id": 28,
+        "skill": "styled-components",
+        "image": "https://emojis.wiki/emoji-pics/facebook/nail-polish-facebook.png"
+    }
+]

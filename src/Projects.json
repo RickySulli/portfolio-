@@ -4,8 +4,9 @@
       "name": "Meal Queue",
       "image": "https://i.imgur.com/vLOXwn3.jpg",
       "description": "Recipe finder with a youtube modal that matches the recipe.",
-      "tech": "Heavily front end.  SASS, Javascript, HTML and use of APIs this was my first group project",
-      "link": "https://axeliono.github.io/Meal-Queue/"
+      "tech": "Heavily front end.  SASS",
+      "deployed": "https://axeliono.github.io/Meal-Queue/",
+      "github": "https://github.com/axeliono/Meal-Queue"
     },
     {
       "id": 2,
@@ -13,31 +14,35 @@
       "image": "https://i.imgur.com/v9Xualh.jpg",
       "description": "An app for meal deliveries for people with chronic conditions.",
       "tech": "First 'full stack' project.  Node, Express, Handlebars, MySQL & Sequelize ORM, MVC, Encryption.",
-      "link": "https://diet-delivery.herokuapp.com/"
+      "deployed": "https://diet-delivery.herokuapp.com/",
+      "github": "https://github.com/MikeGShelby/diet-delivery"
     },
     {
       "id": 3,
-      "name": "RegEx Tutorial",
-      "image": "https://pbs.twimg.com/profile_images/851635058339336192/ZI5FHI72_400x400.jpg",
-      "description": "Cashier",
-      "tech": "This is just a regex tutorial gist I wrote",
-      "link": "RickySulli/regex-tutorial.md"
-    },
-    {
-      "id": 4,
-      "name": "Timed Coding Assessment",
-      "image": "https://i.imgur.com/kTv0a34.png",
-      "description": "simple front end testing app",
-      "tech": "HTML CSS and JavaScript",
-      "link": "https://rickysulli.github.io/TimedCodingAssessment/"
-    },
-    {
-      "id": 5,
       "name": "Hotel-Hotel",
       "image": "https://i.imgur.com/us6gMou.jpg",
       "description": "A fictional boutique hotel with a store. ",
       "tech": "PWA, MERN stack",
-      "link": "https://dry-peak-24448.herokuapp.com/"
+      "deployed": "https://dry-peak-24448.herokuapp.com/",
+      "github": "https://github.com/axeliono/hotel-hotel"
+    },
+    {
+      "id": 4,
+      "name": "RegEx Tutorial",
+      "image": "https://pbs.twimg.com/profile_images/851635058339336192/ZI5FHI72_400x400.jpg",
+      "description": "RegEx Tutorial",
+      "tech": "Gist",
+      "deployed": "RickySulli/regex-tutorial.md",
+      "github": "RickySulli/regex-tutorial.md"
+    },
+    {
+      "id": 5,
+      "name": "Timed Coding Assessment",
+      "image": "https://i.imgur.com/kTv0a34.png",
+      "description": "simple front end testing app",
+      "tech": "HTML CSS and JavaScript",
+      "deployed": "https://rickysulli.github.io/TimedCodingAssessment/",
+      "github": "https://github.com/RickySulli/TimedCodingAssessment"
     },
     {
       "id": 6,
@@ -45,6 +50,7 @@
       "image": "https://i.imgur.com/fiSozWg.jpg",
       "description": "Forever student of percussion.",
       "tech": "The Blues Specialists, Perfect Pants",
-      "link": "https://perfectpants.bandcamp.com/"
+      "deployed": "https://perfectpants.bandcamp.com/",
+      "github": ""
     }
 ]

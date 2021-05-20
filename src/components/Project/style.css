@@ -4,3 +4,7 @@ height: 17.5rem;
 object-fit: cover;
 object-position: 50% 50%;
 }
+
+.card {
+    border-style: none;
+}

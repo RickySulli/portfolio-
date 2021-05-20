@@ -17,8 +17,8 @@ function ProjectCard(props) {
               <strong>tech:</strong> {props.tech}
             </li>
             <div className="card-body" style={{borderRadius: "20%"}}>
-                <a href={props.deployed} className="card-link"><strong>Deployed</strong></a>
-                <a href = {props.github}
+                <a href={props.deployed} target="_blank" className="card-link"><strong>Deployed</strong></a>
+                <a href = {props.github} target="_blank"
                 className="card-link"><strong>github</strong></a>
             </div>
           </ul>

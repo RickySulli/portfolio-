@@ -17,12 +17,12 @@
     {
         "id": 4,
         "skill": "jQuery",
-        "image": "https://lh3.googleusercontent.com/proxy/xWECeiXsJtHgbpN_tNU3PCmR7Wzjh8wyJxA9hPT9FDQmSrIfoyNKRZ10jRD-aohkxNZZIQtT93jO-mRGcw-jZ8EErVl46JYj-gwlRuo0VIwn2AFOiOgzqwmPOQkiQBs"
+        "image": "https://cdn2.howtodoinjava.com/wp-content/uploads/jquery_logo.png"
     },
     {
         "id": 5,
         "skill": "React.js",
-        "image": "https://www.valuecoders.com/blog/wp-content/uploads/2016/08/react.png"
+        "image": "https://cdn.evilmartians.com/front/posts/optimizing-react-virtual-dom-explained/cover-a1d5b40.png"
     },
     {
         "id": 6,
@@ -135,5 +135,15 @@
         "id": 28,
         "skill": "styled-components",
         "image": "https://emojis.wiki/emoji-pics/facebook/nail-polish-facebook.png"
+    },
+    {
+        "id": 29,
+        "skill": "JSON Web Tokens",
+        "image": "https://img.stackshare.io/service/6417/jwt-icon.png"
+    },
+    {
+        "id": 30,
+        "skill": "bcrypt",
+        "image": "https://cybersensor.files.wordpress.com/2018/08/bcrypt-logo.jpg?w=605"
     }
 ]

@@ -2,7 +2,7 @@
     {
       "id": 2,
       "name": "Meal Queue",
-      "image": "https://i.imgur.com/vLOXwn3.jpg",
+      "image": "https://i.imgur.com/CVZCOLm.gif",
       "description": "Recipe finder with a youtube modal that matches the recipe.",
       "tech": "SASS, APIs, HTML5, JavaScript ",
       "deployed": "https://axeliono.github.io/Meal-Queue/",
@@ -11,7 +11,7 @@
     {
       "id": 1,
       "name": "Hotel-Hotel",
-      "image": "https://i.imgur.com/us6gMou.jpg",
+      "image": "https://i.imgur.com/IR1SJIK.gif",
       "description": "A fictional boutique hotel with a store. ",
       "tech": "PWA, MERN stack, JSWT",
       "deployed": "https://dry-peak-24448.herokuapp.com/",
@@ -20,7 +20,7 @@
     {
       "id": 3,
       "name": "Diet Delivery",
-      "image": "https://i.imgur.com/v9Xualh.jpg",
+      "image": "https://i.imgur.com/dXoK1wr.gif",
       "description": "An app for meal deliveries for people with chronic conditions.",
       "tech": "Node, Express, Handlebars, MySQL & Sequelize ORM, MVC, bcrypt.",
       "deployed": "https://diet-delivery.herokuapp.com/",
@@ -29,7 +29,7 @@
     {
       "id": 4,
       "name": "RegEx Tutorial",
-      "image": "https://pbs.twimg.com/profile_images/851635058339336192/ZI5FHI72_400x400.jpg",
+      "image": "https://i.imgur.com/qpshDOt.gif",
       "description": "RegEx Tutorial",
       "tech": "Gist",
       "deployed": "RickySulli/regex-tutorial.md",
@@ -38,7 +38,7 @@
     {
       "id": 5,
       "name": "Timed Coding Assessment",
-      "image": "https://i.imgur.com/kTv0a34.png",
+      "image": "https://i.imgur.com/JC4gn3F.gif",
       "description": "simple front-end testing app",
       "tech": "HTML CSS and JavaScript",
       "deployed": "https://rickysulli.github.io/TimedCodingAssessment/",
@@ -47,7 +47,7 @@
     {
       "id": 6,
       "name": "Not Computers",
-      "image": "https://i.imgur.com/fiSozWg.jpg",
+      "image": "https://i.imgur.com/D01jGxe.gif",
       "description": "Forever student of percussion.",
       "tech": "The Blues Specialists, Perfect Pants",
       "deployed": "https://perfectpants.bandcamp.com/",

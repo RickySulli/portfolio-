@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./style.css";
 
 var style = {
     width: "100%",
@@ -15,7 +15,7 @@ var style = {
 };
 
 const Contact = () => (
-  <div className="row no-gutters" style={style}>
+  <div className="row no-gutters page" style={style}>
             {/* {Column1} */}
             <div className = "col"style={{display:"flex",justifyContent:"space-evenly",flexFlow:"column",alignItems:"center" }}>
                 

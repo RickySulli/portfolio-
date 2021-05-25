@@ -2,6 +2,7 @@ import React, {useState} from "react";
 import SkillCard from '../Skills';
 import Skills from '../../Skills.json';
 import Wrapper from '../Wrapper';
+import "./style.css";
 
 var style = {
     width: "100%",
@@ -18,7 +19,7 @@ var style = {
 const SkillList= () => {
     const [skillSet] = useState(Skills)
     return (
-    <div>
+    <div className="page">
         <div style={style}>
             <h1 className="title"> Skills </h1>
         <Wrapper>

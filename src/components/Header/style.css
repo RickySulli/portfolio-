@@ -1,8 +1,16 @@
 img{
-height: 18rem;
+    height: 15rem;
 }
-.dev{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+
+
+
+@keyframes slidein {
+    from{
+        margin-left: 100%;
+        width: 3000%;
+    }
+    to{
+        margin-left: 2%;
+        width: 100%;
+    }
 }

@@ -2,6 +2,7 @@ import React, {useState} from "react";
 import ProjectCard from "../Project";
 import Wrapper from '../Wrapper';
 import Projects from '../../Projects.json';
+import "./style.css"
 var style = {
   width: "100%",
   height: "100%",
@@ -17,7 +18,7 @@ var style = {
 const Portfolio = () => {
   const [projectList] = useState(Projects);
 return(
-<div>
+<div className="page">
   <div style={style}>
     <h1 className="title">Projects</h1>
 <Wrapper>

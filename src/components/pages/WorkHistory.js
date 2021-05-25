@@ -2,7 +2,7 @@ import React, {useState} from "react";
 import HistoryCard from "../WorkHistory";
 import Wrapper from '../Wrapper';
 import WorkHistory from '../../WorkHistory.json';
-
+import "./style.css"
 
 var style = {
     width: "100%",
@@ -18,7 +18,7 @@ var style = {
 const Work = () => {
     const [historyList] = useState(WorkHistory);
     return (
-        <div>
+        <div className="page">
             <div style={style}>
                 <h1 className="title">Work History</h1>
                 <Wrapper>

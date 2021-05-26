@@ -10,7 +10,7 @@ var style = {
 
 }
 const Header =() =>(
-    <div className="row" style={style}>
+    <div className="row header" style={style}>
         <h1 className="title">Ricky Sullivan</h1>
             <div className="col-5" style={{justifyContent:"center", alignItems:"center", display:"flex"}}>
                     <h2>Web Developer</h2>

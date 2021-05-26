@@ -2,15 +2,18 @@ img{
     height: 15rem;
 }
 
-
+.header{
+    animation-duration: 900ms;
+    animation-name: slidein;
+}
 
 @keyframes slidein {
     from{
-        margin-left: 100%;
+        margin-right: 100%;
         width: 3000%;
     }
     to{
-        margin-left: 2%;
+        margin-right: 0%;
         width: 100%;
     }
 }

@@ -2,3 +2,10 @@
     background-color: #292933;
     color: beige;
 }
+a{
+    color: beige;
+}
+a:hover{
+    color: blue
+}
+
